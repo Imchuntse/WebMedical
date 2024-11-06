@@ -1,0 +1,14 @@
+,USERID,SURNAME,FIRSTNAME,EMAIL,APPOINTMENTS
+0,0,                                                                                                    ,                              ,,0
+1,1,Findacure                                                                                           ,Frederick                     ,findacure@bpsoftware.com.au,1
+2,2,Dr. I Cure                                                                                          ,                              ,,0
+3,3,Cure                                                                                                ,Ivor                          ,icure@bpsoftware.com.au,1
+4,4,Reception                                                                                           ,Jenny                         ,jenny.reception@bpsoftware.com.au,0
+5,5,Nurse                                                                                               ,Nadine                        ,nadine.nurse@bpsoftware.com.au,1
+6,6,Susan Senior Reception                                                                              ,                              ,susan.reception@bpsoftware.com.au,0
+7,7,Technician                                                                                          ,IT                            ,support@bpsoftware.com.au,0
+8,8,Specialist                                                                                          ,Psychology                    ,specialist@bpsoftware.com.au,1
+9,9,Educator                                                                                            ,Diabetes                      ,diabetes.educator@bpsoftware.com.au,1
+10,2000000000,Best Practice                                                                                       ,General Products Support      ,,0
+11,2000000003,ExternalVendor                                                                                      ,GP2U Telehealth               ,,0
+12,2000000512,ExternalVendor                                                                                      ,Bp NCSR Integration           ,,0

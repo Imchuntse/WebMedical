@@ -1,0 +1,11 @@
+.yellow {
+    width:200px;
+    height:30px;
+    background: linear-gradient(to left, white 50%, #f0cc00 50%);
+    }
+
+.red {
+    width:200px;
+    height:30px;
+    background: linear-gradient(to left, red 50%, white 50%);
+    }

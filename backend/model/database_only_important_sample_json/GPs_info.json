@@ -1,0 +1,93 @@
+[
+    {
+        "USERID":0,
+        "SURNAME":"",
+        "FIRSTNAME":"",
+        "EMAIL":null,
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":1,
+        "SURNAME":"Findacure",
+        "FIRSTNAME":"Frederick",
+        "EMAIL":"findacure@bpsoftware.com.au",
+        "APPOINTMENTS":1
+    },
+    {
+        "USERID":2,
+        "SURNAME":"Dr. I Cure",
+        "FIRSTNAME":"",
+        "EMAIL":null,
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":3,
+        "SURNAME":"Cure",
+        "FIRSTNAME":"Ivor",
+        "EMAIL":"icure@bpsoftware.com.au",
+        "APPOINTMENTS":1
+    },
+    {
+        "USERID":4,
+        "SURNAME":"Reception",
+        "FIRSTNAME":"Jenny",
+        "EMAIL":"jenny.reception@bpsoftware.com.au",
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":5,
+        "SURNAME":"Nurse",
+        "FIRSTNAME":"Nadine",
+        "EMAIL":"nadine.nurse@bpsoftware.com.au",
+        "APPOINTMENTS":1
+    },
+    {
+        "USERID":6,
+        "SURNAME":"Susan Senior Reception",
+        "FIRSTNAME":"",
+        "EMAIL":"susan.reception@bpsoftware.com.au",
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":7,
+        "SURNAME":"Technician",
+        "FIRSTNAME":"IT",
+        "EMAIL":"support@bpsoftware.com.au",
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":8,
+        "SURNAME":"Specialist",
+        "FIRSTNAME":"Psychology",
+        "EMAIL":"specialist@bpsoftware.com.au",
+        "APPOINTMENTS":1
+    },
+    {
+        "USERID":9,
+        "SURNAME":"Educator",
+        "FIRSTNAME":"Diabetes",
+        "EMAIL":"diabetes.educator@bpsoftware.com.au",
+        "APPOINTMENTS":1
+    },
+    {
+        "USERID":2000000000,
+        "SURNAME":"Best Practice",
+        "FIRSTNAME":"General Products Support",
+        "EMAIL":null,
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":2000000003,
+        "SURNAME":"ExternalVendor",
+        "FIRSTNAME":"GP2U Telehealth",
+        "EMAIL":null,
+        "APPOINTMENTS":0
+    },
+    {
+        "USERID":2000000512,
+        "SURNAME":"ExternalVendor",
+        "FIRSTNAME":"Bp NCSR Integration",
+        "EMAIL":null,
+        "APPOINTMENTS":0
+    }
+]

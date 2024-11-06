@@ -1,0 +1,50 @@
+[
+    {
+        "APPOINTMENTCODE":0,
+        "DESCRIPTION":"Unavailable"
+    },
+    {
+        "APPOINTMENTCODE":1,
+        "DESCRIPTION":"Booked"
+    },
+    {
+        "APPOINTMENTCODE":2,
+        "DESCRIPTION":"Waiting"
+    },
+    {
+        "APPOINTMENTCODE":3,
+        "DESCRIPTION":"With doctor"
+    },
+    {
+        "APPOINTMENTCODE":4,
+        "DESCRIPTION":"At billing"
+    },
+    {
+        "APPOINTMENTCODE":5,
+        "DESCRIPTION":"Completed"
+    },
+    {
+        "APPOINTMENTCODE":9,
+        "DESCRIPTION":"Unavailable"
+    },
+    {
+        "APPOINTMENTCODE":10,
+        "DESCRIPTION":"DNA"
+    },
+    {
+        "APPOINTMENTCODE":11,
+        "DESCRIPTION":"Reserved"
+    },
+    {
+        "APPOINTMENTCODE":12,
+        "DESCRIPTION":"Invoiced"
+    },
+    {
+        "APPOINTMENTCODE":13,
+        "DESCRIPTION":"Paid"
+    },
+    {
+        "APPOINTMENTCODE":99,
+        "DESCRIPTION":"Unavailable"
+    }
+]

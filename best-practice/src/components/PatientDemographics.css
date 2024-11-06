@@ -1,0 +1,184 @@
+/* Styling for PatientDemographics.js */
+
+/* Import Material-UI styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.patient-demographics {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 12px; /* Increase cell padding */
+  margin: 0; /* Remove cell margins */
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-container {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+/* Enhance styling using Material-UI styles */
+.left-pane {
+  display: flex;
+  flex-direction: column; /* Align elements vertically */
+  align-items: flex-start; /* Align elements to the left */
+}
+
+.doctor-logo {
+  display: block; /* Ensure the image is displayed as a block element */
+  margin-top: 5px; /* Add top margin to the logo for spacing */
+  align-self: flex-start;
+  margin-bottom: 15px;
+}
+
+/* Style the Patient button using Material-UI Button component */
+.patient-button {
+  background-color: #1976D2; /* Material-UI primary color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px; /* Add some top margin to the button for spacing */
+  margin-left: 10px;
+}
+
+/* Apply Material-UI typography styles to the page title */
+h1 {
+  font-size: 24px; /* Adjust as needed */
+  margin-bottom: 20px;
+}
+
+/* Style the table using Material-UI Table component */
+.MuiTable-root {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.MuiTableCell-root {
+  padding: 12px; /* Increase cell padding */
+  text-align: left;
+}
+
+/* Style the table header */
+.MuiTableHead-root {
+  background-color: #f2f2f2;
+}
+
+/* Style even rows */
+.MuiTableRow-root:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Add a border radius to the table container */
+.table-container {
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Move the entire table layout to the right */
+.right-pane {
+  display: flex;
+  flex-direction: column; /* Align elements vertically */
+  align-items: flex-end; /* Align elements to the right */
+}
+
+/* Style the date filter fields */
+.date-filter {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start; /* Align elements to the left */
+  margin-top: 30px;
+}
+
+/* Add a border to the search input field */
+.search-input {
+  border: 1px solid #ddd;
+  border-radius: 1px;
+  padding: 2px;
+}
+
+/* Increase cell padding and margins to improve table layout */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+  padding: 12px; /* Increase cell padding */
+  margin: 0; /* Remove cell margins */
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-container {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-top: 70px;
+}
+
+/* Move the entire table layout to the right */
+.right-pane {
+  margin-left: 20px; /* Adjust the margin value as needed */
+}
+
+.left-column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  background-color: white; /* Background color for the left column */
+  min-width: 200px; /* Minimum width for the left column */
+}
+
+.patient-button {
+  background-color: #026dd9;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.separator {
+  border-left: 1px solid #ddd; /* Vertical line color */
+  height: 100%;
+  margin: 0 20px; /* Adjust margin for spacing */
+}
+
+.right-column {
+  flex-grow: 1; /* Allow the right column to grow and fill available space */
+  padding: 20px;
+}
+
+
